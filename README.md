@@ -1,6 +1,6 @@
 # React Aspen Demo
 
-This repository implements a filetree component on top of low-level API's offered by `react-aspen`, a library for rendering nested trees in React apps very efficiently.
+This repository implements a filetree component on top of low-level API's offered by [`react-aspen`](https://github.com/neeksandhu/react-aspen), a library for rendering nested trees in React apps very efficiently.
 
 All the UI features you expect from a filetree are available out-of-the-box, for example:
  - Expand/Collapse folders
