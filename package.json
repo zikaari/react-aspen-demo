@@ -1,0 +1,42 @@
+{
+  "name": "react-aspen-demo",
+  "private": true,
+  "scripts": {
+    "build": "webpack --mode=production",
+    "start": "webpack-dev-server"
+  },
+  "author": "Neek Sandhu <neek.sandhu@outlook.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@types/classnames": "^2.2.6",
+    "@types/react": "^16.7.18",
+    "@types/react-dom": "^16.0.11",
+    "aspen-decorations": "^1.0.2",
+    "browserfs": "^1.4.3",
+    "classnames": "^2.2.6",
+    "context-menu": "^2.0.0",
+    "insert-if": "^1.1.0",
+    "notificar": "^1.0.1",
+    "path-fx": "^2.0.0",
+    "react": "^16.6.3",
+    "react-aspen": "^1.0.2",
+    "react-dom": "^16.6.3",
+    "valid-filename": "^2.0.1"
+  },
+  "devDependencies": {
+    "css-loader": "^2.0.1",
+    "html-webpack-plugin": "^3.2.0",
+    "node-sass": "^4.11.0",
+    "sass-loader": "^7.1.0",
+    "style-loader": "^0.23.1",
+    "svgo": "^1.1.1",
+    "svgo-loader": "^2.2.0",
+    "ts-loader": "^5.3.1",
+    "tslint": "^5.12.0",
+    "typescript": "^3.2.2",
+    "url-loader": "^1.1.2",
+    "webpack": "^4.27.1",
+    "webpack-cli": "^3.1.2",
+    "webpack-dev-server": "^3.1.14"
+  }
+}

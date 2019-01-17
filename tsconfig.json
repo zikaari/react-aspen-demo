@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "target": "esnext",
+        "outDir": "./dist",
+        "jsx": "react",
+        "declaration": true,
+        "declarationDir": "./dist/typings",
+        "forceConsistentCasingInFileNames": true
+    },
+    "exclude": [
+        "node_modules",
+        "dist"
+    ]
+}
