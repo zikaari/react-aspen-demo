@@ -11,7 +11,7 @@
     "@types/classnames": "^2.2.6",
     "@types/react": "^16.7.18",
     "@types/react-dom": "^16.0.11",
-    "aspen-decorations": "^1.0.2",
+    "aspen-decorations": "^1.1.1",
     "browserfs": "^1.4.3",
     "classnames": "^2.2.6",
     "context-menu": "^2.0.0",
@@ -19,7 +19,7 @@
     "notificar": "^1.0.1",
     "path-fx": "^2.0.0",
     "react": "^16.6.3",
-    "react-aspen": "^1.0.2",
+    "react-aspen": "^1.1.1",
     "react-dom": "^16.6.3",
     "valid-filename": "^2.0.1"
   },
