@@ -1,7 +1,7 @@
-import * as React from 'react';
-import ContextMenu from 'context-menu';
-import { render } from 'react-dom';
 import * as BrowserFS from 'browserfs'
+import ContextMenu from 'context-menu'
+import * as React from 'react'
+import { render } from 'react-dom'
 
 import {
     FileType,
